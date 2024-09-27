@@ -1,6 +1,6 @@
 {
   "name": "CATS",
-  "description": "Only $CATS the meowest Telegram native token. Join meow @catsgang_bot",
+  "description": "Only $CATS the meowest Telegram native token",
   "symbol": "CATS",
   "image": "https://cats-s3-bucket.s3.eu-central-1.amazonaws.com/core/logo.jpg"
 }
